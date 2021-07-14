@@ -1,0 +1,35 @@
+body{
+    text-align: center;
+    background-color: rgb(197, 18, 18);
+    background-image: linear-gradient(to bottom right, rgb(197, 18, 18), #000000);
+}
+
+h3{
+    font-family: cursive;
+}
+
+a{
+    background: #1C1C1C;
+    padding: 20px;
+    text-align: center;
+    align-items: center;
+    text-decoration: none;
+    width: 30em;
+    color:#ffffff;
+    font-family: 'Montserrat';
+    font-size: 17px;
+    border: 2px solid #1C1C1C;
+    display: inline-block;
+    transition: 0.25s;
+}
+
+a:hover{
+    background: rgb(197, 18, 18);
+    color: #1C1C1C;
+}
+
+img{
+    border-radius: 280px;
+    width: 140px;
+    margin-top: 5em;
+}
